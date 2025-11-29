@@ -21,14 +21,6 @@ Official implementation of **ReCT-VLM: Reasoning-Enhanced CT Vision-Language Mod
 
 ---
 
-## 📰 News
-
-- **[2025-11-29]** Initial code release
-- **[2025-11-29]** Pre-trained weights released
-- **[TBD]** Paper submitted to MICCAI 2025
-
----
-
 ## 🏗️ Architecture Overview
 
 <p align="center">
