@@ -498,32 +498,6 @@ This work is based on several excellent open-source projects:
 
 ---
 
-## 📧 Contact
-
-For questions and feedback:
-- **Issues**: [GitHub Issues](https://github.com/NEWMES-AI/ReCT-VLM/issues)
-- **Email**: [contact email]
-- **Website**: [project website]
-
----
-
-## 🗺️ Roadmap
-
-- [x] Initial code release
-- [x] Pre-trained weights release
-- [ ] Paper submission to MICCAI 2025
-- [ ] Demo application
-- [ ] Multi-language support
-- [ ] Integration with clinical systems
-- [ ] Model distillation for deployment
-- [ ] Web API service
-
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
-
----
-
 <p align="center">
   Made with ❤️ by NEWMES-AI
 </p>
